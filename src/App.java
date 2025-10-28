@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
        ///5,0,-1,4,9,6,-5,9,5
-       int[] numeros = new int[]{5,0,-1,4,9,6,-5,9,5};
+       int[] numeros = new int[]{5,0,8,4,9,6,7,2,3};
        SortShell shell = new SortShell();
        View view = new View();
 
